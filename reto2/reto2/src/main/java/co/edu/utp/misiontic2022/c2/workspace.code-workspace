@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\class02"
+		},
+		{
+			"name": "mundo",
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\mundo"
+		},
+		{
+			"name": "reto1",
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\reto1"
+		},
+		{
+			"name": "clase12-jpa",
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\clase12-jpa"
+		},
+		{
+			"name": "reto2",
+			"path": "..\\..\\..\\..\\..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
