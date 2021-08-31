@@ -64,7 +64,7 @@ public class VistaRequerimientos {
             requerimiento_3.getConstructora());
            }
         } catch (Exception e) {
-            System.err.println("Ha ocurrido un error!"+e.getMessage());
+            System.err.println("Ha ocurrido un e!"+e.getMessage());
         }
     }
 }
